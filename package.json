@@ -1,0 +1,11 @@
+{
+  "name": "atividades-aula-03-es6",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "atividades": "node atividades.js",
+    "modulos": "node app.js",
+    "testar": "node atividades.js && node app.js"
+  }
+}
